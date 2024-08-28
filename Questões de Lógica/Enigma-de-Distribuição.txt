@@ -1,0 +1,10 @@
+Enigma de Distribuição: Três caixas são rotuladas como “Maçãs”, “Laranjas” e “Maçãs e Laranjas”. Todos
+os rótulos estão incorretos. Abrindo uma caixa e pegando uma única fruta, como você pode determinar
+corretamente o rótulo de cada caixa?
+
+Abrir a caixa rotulada "Maçãs e Laranjas", levando em consideração que esta caixa deve conter apenas um tipo de fruta.
+
+Com base na única fruta pegada nela, posso deduzir o conteúdo correto de todas as caixas, já que, quando a fruta voltar a aparecer em outra caixa, saberei que ali contem os dois tipos de frutas.
+
+Minha resposta é com base na informação de que todos
+os rótulos estão incorretos.

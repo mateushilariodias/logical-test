@@ -1,0 +1,3 @@
+Problema de Sequência: Qual número completa a seguinte sequência? 3, 9, 27,   , 243.
+
+O número que completa a sequência é 81. Essa sequência é formada por potências de base 3. A cada termo, o expoente aumenta em 1, resultando em 3¹ = 3, 3² = 9, 3³ = 27, e assim por diante. Portanto, o próximo termo é 3⁴, que é igual a 81.

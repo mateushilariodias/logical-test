@@ -1,0 +1,1 @@
+Busquei otimizar o código utilizando métodos já conhecidos, uma vez que a implementação da lógica sem a utilização de métodos, embora funcional, resultaria em um código mais extenso.

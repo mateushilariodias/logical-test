@@ -1,0 +1,25 @@
+Problema de Relacionamento: Em uma família, cada irmã tem o mesmo número de irmãos. Cada irmão tem duas vezes mais irmãs do que irmãos. Quantos irmãos e irmãs há na família?
+
+Variáveis:
+x = número de irmãos
+y = número de irmãs
+
+Cada irmã tem o mesmo número de irmãos, que é x.
+Cada irmão tem duas vezes mais irmãs do que irmãos.
+Ou seja, para cada irmão, y = 2(x-1)
+
+Equação:
+y = 2(x-1)
+Cada irmã tem x irmãos. Isso significa que:
+x = y-1
+Substituindo isso na primeira equação:
+y = 2((y-1)-1)
+y = 2(y-2)
+y = 2y-4
+Resolvendo a equação:
+y = 2y-4
+4 = y
+Então, há 4 irmãs. Substituindo de volta em x = y-1:
+x = 4-1 = 3
+
+Portanto, há 3 irmãos e 4 irmãs na família.

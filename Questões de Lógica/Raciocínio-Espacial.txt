@@ -1,0 +1,10 @@
+Raciocínio Espacial: Se você cortar um cubo de 3x3x3 cm em cubos de 1x1x1 cm, quantos cubos de 1 cm
+você obterá?
+
+Para obter o número total de cubos menores, multiplico as três dimensões de cada cubo:
+3 x 3 x 3 = 27
+1 x 1 z 1 = 1
+
+Para encontrar quantos cubos menores cabem no cubo original, divido o volume do cubo original pelo volume do cubo menor.
+
+Portanto, ao cortar um cubo de 3x3x3 cm em cubos de 1x1x1 cm, obtém-se 27 cubos menores.
